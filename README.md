@@ -31,9 +31,12 @@ LJ_ML_training_XX.ipynb - ML training part
 Usage:
 
 The comment mainly in LJ_function_exam_sq.ipynb and LJ_ML_training_sq.ipynb. The cubic version are similar. 
-I have some pre-trianed weights for both LJ_function_exam_XX.ipynb in ML_data folder, just open LJ_function_exam_xx.ipynb and press enter.
 
-If want to train yourself, open LJ_ML_training_XX.ipynb, choose parameter, taining, and wait.
+I have some pre-trianed weights for both LJ_function_exam_XX.ipynb in the folder "ML_data", just open LJ_function_exam_xx.ipynb and press run.
 
-For any question/suggestion/bug report/ whatever, please mail me to 
+If one want to train self, open LJ_ML_training_XX.ipynb, choose parameter, taining, and wait.
+
+For training data, edit LJ_data.cu in the folder "LJ_data", then compile and run it on your favorite way. GMC simulation and CUDA is not the major points here and I am not an expert in MC simulation. 
+
+For any question/suggestion/bug/help/whatever, please mail me to 
 shang-chun.lin@uni-tuebingen.de
