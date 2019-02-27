@@ -1,7 +1,7 @@
 # ML-cDFT
 Machine learning classical density functional theory (ML-cDFT)
 
-One need Jupyter notebook with python3 for training, and CUDA (also Nvidia GPU, of course) if want to generate own data.  
+One need Jupyter notebook with python3 for training, and CUDA (also Nvidia GPU, of course) if you want to generate your own data.  
 
 A machine learning method to approximate the classical free energy density functional. The detail could be found in SciPost, https://scipost.org/SciPostPhys.6.2.025
 
