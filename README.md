@@ -1,7 +1,7 @@
 # ML-cDFT
 Machine learning classical density functional theory (ML-cDFT)
 
-A machine learning method to approximate the classical free energy density functional. The detail could be found in SciPost, https://scipost.org/SciPostPhys.6.2.025
+A machine learning method to approximate the classical free energy density functional. The detail could be found in the paper in SciPost, https://scipost.org/SciPostPhys.6.2.025
 
 Usaully ML is a black box to theoretical physicists, here we try to discover the insight and connect ML with cDFT. 
 This is a project to answer, "could ML find a free energy functional?". The short answer is, sort of yes, as least it could be approximated by ML. 
